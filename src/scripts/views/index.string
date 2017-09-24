@@ -1,0 +1,7 @@
+<div>
+fdsffs
+</div>
+<div  id="box">
+	<input type="text" name="" id="" value="" v-model="message" />
+	{{message}}
+</div>
